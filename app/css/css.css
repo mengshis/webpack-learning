@@ -1,0 +1,23 @@
+body{
+    color: #ffffff;
+    text-align: center;
+    background-image: url(../images/2.jpg);
+    overflow: scroll;
+}
+.pic{
+    height: 100px;
+    width: 100px;
+}
+.logo{
+    color: #ffffff;
+    text-align: center;
+    border-radius: 50px;
+}
+.font-size{
+    font-size:30px!important;
+    color: red;
+    margin-right: 15px;
+}
+.footer{
+
+}
